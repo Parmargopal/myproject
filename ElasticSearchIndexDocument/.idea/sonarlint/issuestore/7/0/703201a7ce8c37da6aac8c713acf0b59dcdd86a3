@@ -1,0 +1,12 @@
+
+p
+java:S2095"UUse try-with-resources or close this "PreBuiltTransportClient" in a "finally" clause.(Þ§Ý¡üÿÿÿÿ
+R
+java:S1874"7Remove this use of "TransportClient"; it is deprecated.(õŽ«¬þÿÿÿÿ
+U
+java:S1128
+":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(à·‡¡úÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¥©ú²üÿÿÿÿ
+Z
+java:S1874"?Remove this use of "PreBuiltTransportClient"; it is deprecated.(Þ§Ý¡üÿÿÿÿ

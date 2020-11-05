@@ -1,0 +1,8 @@
+
+G
+java:S1905
+"*Remove this unnecessary cast to "Student".(ÃÈÜ8Ô§·‘Ò.
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(ØÓ÷­şÿÿÿÿ8Ô§·‘Ò.
+L
+java:S1905"*Remove this unnecessary cast to "Student".(íªÉ”úÿÿÿÿ8Ô§·‘Ò.

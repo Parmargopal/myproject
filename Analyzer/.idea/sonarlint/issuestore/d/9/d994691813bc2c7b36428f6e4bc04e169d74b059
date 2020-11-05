@@ -1,0 +1,29 @@
+
+H
+java:S1659"+Declare "indexTypeName" on a separate line.(¤ÒÕ†8Ìˆ­ËÍ.
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(úß°êøÿÿÿÿ8Ìˆ­ËÍ.
+€
+java:S1192E"cDefine a constant instead of duplicating this literal "index.write.wait_for_active_shards" 3 times.(›ğíñ8Ìˆ­ËÍ.
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(œ§„Õ8Ìˆ­ËÍ.
+|
+java:S1192F"ZDefine a constant instead of duplicating this literal "index.query.default_field" 3 times.(÷­—Äúÿÿÿÿ8Ìˆ­ËÍ.
+{
+java:S1192H"YDefine a constant instead of duplicating this literal "index.number_of_replicas" 3 times.(„ïíùÿÿÿÿ8Ìˆ­ËÍ.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(úß°êøÿÿÿÿ8Ìˆ­ËÍ.
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(Ş¥©’üÿÿÿÿ8Ìˆ­ËÍ.
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(æ¨ §ıÿÿÿÿ8Ìˆ­ËÍ.
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(ëˆµøÿÿÿÿ8Ìˆ­ËÍ.
+y
+java:S1192G"WDefine a constant instead of duplicating this literal "index.number_of_shards" 3 times.(Ïƒ›£ùÿÿÿÿ8Ìˆ­ËÍ.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(æ¨ §ıÿÿÿÿ8Ìˆ­ËÍ.
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(÷Ê”ò8Ìˆ­ËÍ.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(‹°øúÿÿÿÿ8Ìˆ­ËÍ.
+w
+java:S20950"UUse try-with-resources or close this "PreBuiltTransportClient" in a "finally" clause.(Ş§İ¡üÿÿÿÿ8ÓÈ™òÍ.
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(§ó‘ªüÿÿÿÿ8Ìˆ­ËÍ.
+a
+java:S18740"?Remove this use of "PreBuiltTransportClient"; it is deprecated.(Ş§İ¡üÿÿÿÿ8Ìˆ­ËÍ.
+€
+java:S1192D"^Define a constant instead of duplicating this literal "index.max_inner_result_window" 5 times.(ÍÛß°ÿÿÿÿÿ8Ìˆ­ËÍ.
+Y
+java:S1874"7Remove this use of "TransportClient"; it is deprecated.(õ«¬şÿÿÿÿ8Ìˆ­ËÍ.

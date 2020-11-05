@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8ªí–Ğ.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(–µÿìúÿÿÿÿ8ËÁÔ”Ğ.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Èã‹šĞ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ­àøÿÿÿÿ8õİ”Ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(š°×8Ï˜á”Ğ.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Èã‹šĞ.

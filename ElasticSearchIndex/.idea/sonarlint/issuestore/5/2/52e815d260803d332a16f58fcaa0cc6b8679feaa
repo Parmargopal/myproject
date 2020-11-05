@@ -1,0 +1,15 @@
+
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(¡ÿŒıÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ĞÙÀ‰ıÿÿÿÿ
+R
+java:S1874"7Remove this use of "TransportClient"; it is deprecated.(õ«¬şÿÿÿÿ
+Z
+java:S1874)"?Remove this use of "PreBuiltTransportClient"; it is deprecated.(Ş§İ¡üÿÿÿÿ
+p
+java:S2095)"UUse try-with-resources or close this "PreBuiltTransportClient" in a "finally" clause.(Ş§İ¡üÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ
+E
+java:S1874^"0Remove this use of "setTypes"; it is deprecated.(ˆÚ¯L
+_
+java:S11924"IDefine a constant instead of duplicating this literal "document" 5 times.(éÙİİ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(ÔïŞ±

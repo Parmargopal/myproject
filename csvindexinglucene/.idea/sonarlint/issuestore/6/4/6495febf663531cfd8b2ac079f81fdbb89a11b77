@@ -1,0 +1,15 @@
+
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Ú§ÈÖúÿÿÿÿ8éÇŒ×Õ.
+f
+java:S2095"IUse try-with-resources or close this "IndexWriter" in a "finally" clause.(ÖÇ—Ğ8ù…‰ªÖ.
+G
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8ƒÂ˜ÉÕ.
+]	java:S125%"<This block of commented-out lines of code should be removed.(êÏ…×ıÿÿÿÿ8éıÊ×Õ.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(‚îÔŸ8éÇŒ×Õ.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8éÇŒ×Õ.
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÖÔâ†8ø®ï©Ö.
+f
+java:S2095"IUse try-with-resources or close this "FSDirectory" in a "finally" clause.(ù¸ªÁ8ù…‰ªÖ.
+Z
+java:S1197&"8Move the array designator from the variable to the type.(ÎìÃæşÿÿÿÿ8éÇŒ×Õ.

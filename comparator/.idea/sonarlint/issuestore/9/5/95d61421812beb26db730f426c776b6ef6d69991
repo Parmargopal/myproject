@@ -1,0 +1,6 @@
+
+8
+java:S2326"S is not used in the class.(Æ°¥Å8È€ÁΩ–.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æ°¥Å8â»‘Ω–.
+L
+java:S3740"/Provide the parametrized type for this generic.(Æ°¥Å8ÍÄ’Ω–.

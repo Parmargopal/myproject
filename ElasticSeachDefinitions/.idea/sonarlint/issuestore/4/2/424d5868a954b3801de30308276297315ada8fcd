@@ -1,0 +1,11 @@
+
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ÚãÙ‰8¹Ë°¨Ó.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(°¬—¨ûÿÿÿÿ8¹Ë°¨Ó.
+V
+java:S18744"4Remove this use of "IndexRequest"; it is deprecated.(ÜîòÀÿÿÿÿÿ8  Õ¨Ó.
+T
+java:S14815"2Remove this unused "indexResponse" local variable.(Ý¸Ñÿýÿÿÿÿ8  Õ¨Ó.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Æòâ–8¹Ë°¨Ó.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ŽÚäÉûÿÿÿÿ8¹Ë°¨Ó.
+c
+java:S18545"ARemove this useless assignment to local variable "indexResponse".(Ý¸Ñÿýÿÿÿÿ8  Õ¨Ó.

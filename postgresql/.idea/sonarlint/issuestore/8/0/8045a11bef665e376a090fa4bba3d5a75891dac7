@@ -1,0 +1,9 @@
+
+h
+java:S1128"KRemove this unused import 'jdk.nashorn.internal.runtime.regexp.joni.Regex'.(é÷üˆ8Ìœ¦ÔÕ.
+P
+java:S1128
+".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Ìœ¦ÔÕ.
+S
+java:S1128"6Remove this unused import 'javafx.beans.binding.When'.(ËÀ˜Î8Ìœ¦ÔÕ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÇòº8‚›°ÔÕ.

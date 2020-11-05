@@ -1,0 +1,25 @@
+
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(íÜË¼øÿÿÿÿ8 ÀşßÒ.
+c
+java:S1854;"ARemove this useless assignment to local variable "indexResponse".(İ¸Ñÿıÿÿÿÿ8¬ß¯ãÒ.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(Ğó»øÿÿÿÿ8äÎóßÒ.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(áÇü®ÿÿÿÿÿ8¶Ì÷ßÒ.
+
+java:S1130!"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(‰îõ™8àè—ÎÔ.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(¸íÅıúÿÿÿÿ8¶Ì÷ßÒ.
+V
+java:S18749"4Remove this use of "IndexRequest"; it is deprecated.(—Ìàÿÿÿÿÿ8àè—ÎÔ.
+{
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8î…¨ÕÔ.
+i
+java:S1854'"GRemove this useless assignment to local variable "createIndexResponse".(Îšêğúÿÿÿÿ8àè—ÎÔ.
+2
+java:S1700"Rename field "client"(°©ªÍ8ïöÍßÒ.
+Z
+java:S1481'"8Remove this unused "createIndexResponse" local variable.(Îšêğúÿÿÿÿ8àè—ÎÔ.
+T
+java:S1481;"2Remove this unused "indexResponse" local variable.(İ¸Ñÿıÿÿÿÿ8¬ß¯ãÒ.
+”
+java:S1130!"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(‰îõ™8àè—ÎÔ.
+P
+java:S1874'".Remove this use of "create"; it is deprecated.(Îšêğúÿÿÿÿ8àè—ÎÔ.

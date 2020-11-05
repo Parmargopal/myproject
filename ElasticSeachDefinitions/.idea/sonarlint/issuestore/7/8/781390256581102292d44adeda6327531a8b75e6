@@ -1,0 +1,13 @@
+
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(âéÆ›8…ÁîÔÔ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(éæ­‘üÿÿÿÿ8ºŒóÔÔ.
+J
+java:S1481."-Remove this unused "response" local variable.(åŸ•¨8 ‘ÕÔ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Á¢†øÿÿÿÿ8à†èÔÔ.
+V
+java:S1874-"4Remove this use of "IndexRequest"; it is deprecated.(ã±ïÕüÿÿÿÿ8º¥ÕÔ.
+Y
+java:S1854."<Remove this useless assignment to local variable "response".(åŸ•¨8 ‘ÕÔ.
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ìµ­ÕÔ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(²¼ì¢úÿÿÿÿ8ÄéÔÔ.

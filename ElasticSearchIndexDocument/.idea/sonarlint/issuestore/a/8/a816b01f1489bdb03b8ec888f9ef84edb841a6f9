@@ -1,0 +1,16 @@
+
+R
+java:S1874"7Remove this use of "TransportClient"; it is deprecated.(õŽ«¬þÿÿÿÿ
+W
+java:S1854%"ARemove this useless assignment to local variable "indexResponse".(‘Ú–Þ
+U
+java:S1128
+":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ
+p
+java:S2095"UUse try-with-resources or close this "PreBuiltTransportClient" in a "finally" clause.(Þ§Ý¡üÿÿÿÿ
+Z
+java:S1874"?Remove this use of "PreBuiltTransportClient"; it is deprecated.(Þ§Ý¡üÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ„°þÿÿÿÿÿ
+H
+java:S1481%"2Remove this unused "indexResponse" local variable.(‘Ú–Þ

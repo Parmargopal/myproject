@@ -1,0 +1,13 @@
+
+N	java:S106""9Replace this use of System.out or System.err by a logger.(óûñë
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ıı÷¾şÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(­Ûç×
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ÔîÃòşÿÿÿÿ
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(ğá¤‡8°î®ÎÔ.
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(óûñë
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8½¯³ÎÔ.
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(óûñë
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(±±Äùûÿÿÿÿ
+p
+java:S1192"NDefine a constant instead of duplicating this literal "employessdata" 3 times.(Ò¼Ú©şÿÿÿÿ8À×©ÎÔ.
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(óûñë

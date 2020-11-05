@@ -1,0 +1,9 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ì“×úÿÿÿÿ
+t
+java:S1488 "^Immediately return this expression instead of assigning it to the temporary variable "client".(Ä¯›õ
+W
+java:S1854"<Remove this useless assignment to local variable "response".(™›şùÿÿÿÿ
+H
+java:S1481"-Remove this unused "response" local variable.(™›şùÿÿÿÿ

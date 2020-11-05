@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áÖå8«ˆÌÍ.
+]	java:S125"<This block of commented-out lines of code should be removed.(²üûøÿÿÿÿ8ëĞÍ.
+S
+java:S1128
+"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ8ñÊ˜ÌÍ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(óûñë8«ˆÌÍ.
+M
+java:S1874"0Remove this use of "setTypes"; it is deprecated.(ÜÉÊ‡8Ô­¥Î.

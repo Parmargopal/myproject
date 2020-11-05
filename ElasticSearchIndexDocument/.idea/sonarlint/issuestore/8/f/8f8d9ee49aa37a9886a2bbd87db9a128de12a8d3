@@ -1,0 +1,13 @@
+
+T
+java:S1874"7Remove this use of "TransportClient"; it is deprecated.(ÏÏ§Ê8¤Ï¹ÄÌ.
+n
+java:S1128	"LRemove this unused import 'org.elasticsearch.index.query.TermsQueryBuilder'.(Ğ‹ŠÍøÿÿÿÿ8¤Ï¹ÄÌ.
+w
+java:S2095"UUse try-with-resources or close this "PreBuiltTransportClient" in a "finally" clause.(˜ˆ¼’şÿÿÿÿ8¤Ï¹ÄÌ.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÿÑÒ–8¤Ï¹ÄÌ.
+a
+java:S1874"?Remove this use of "PreBuiltTransportClient"; it is deprecated.(˜ˆ¼’şÿÿÿÿ8¤Ï¹ÄÌ.
+R
+java:S1874!"0Remove this use of "setTypes"; it is deprecated.(º®Äşÿÿÿÿ8¤Ï¹ÄÌ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(óûñë8¤Ï¹ÄÌ.

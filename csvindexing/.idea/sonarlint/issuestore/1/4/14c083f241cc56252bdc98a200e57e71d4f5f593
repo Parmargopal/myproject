@@ -1,0 +1,11 @@
+
+k
+java:S2095"IUse try-with-resources or close this "IndexWriter" in a "finally" clause.(³¶ìúùÿÿÿÿ8òãÉÕ.
+m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Î¦˜8òãÉÕ.
+m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Î¦˜8òãÉÕ.
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ÈùãÉÕ.
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8òãÉÕ.
+k
+java:S2095"IUse try-with-resources or close this "FSDirectory" in a "finally" clause.(é¶ïúÿÿÿÿ8òãÉÕ.

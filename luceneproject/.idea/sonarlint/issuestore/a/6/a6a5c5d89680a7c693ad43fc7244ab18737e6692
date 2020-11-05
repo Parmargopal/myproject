@@ -1,0 +1,19 @@
+
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(›Úøÿÿÿÿ8íœ›¹Ø.
+k
+java:S2095$"IUse try-with-resources or close this "IndexWriter" in a "finally" clause.(‹Ù¯Ëøÿÿÿÿ8ÔÒŞÌÖ.
+]
+java:S1128"@Remove this unused import 'org.apache.lucene.analysis.Analyzer'.(ñÕ³8ÚÔ’ùÖ.
+W
+java:S1141@"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ê¸œË×.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(­óÉ8™£¹Ø.
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(‘„…8Èì÷ÁÖ.
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(¸úÃŒ8¿ÁÓ½Ø.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.( äöÛùÿÿÿÿ8ê¸œË×.
+V
+java:S4973>"9Use the "equals" method if value comparison was intended.(§ƒæû8ø Ã×.
+l
+java:S1128"ORemove this unused import 'org.apache.lucene.analysis.core.WhitespaceAnalyzer'.(„ÁÊÔ8ÑÉœúÖ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(à€¶V8ÄÑÂÖ.

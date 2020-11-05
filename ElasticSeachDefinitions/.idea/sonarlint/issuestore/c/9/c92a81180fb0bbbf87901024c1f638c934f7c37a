@@ -1,0 +1,13 @@
+
+J
+java:S1481-"-Remove this unused "response" local variable.(åŸ•¨8ÁüºôÔ.
+V
+java:S1874,"4Remove this use of "IndexRequest"; it is deprecated.(·İ°İøÿÿÿÿ8µÍ¹ôÔ.
+L
+java:S3740("/Provide the parametrized type for this generic.(Éİ©½8åÌ¶ôÔ.
+Y
+java:S1854-"<Remove this useless assignment to local variable "response".(åŸ•¨8ÁüºôÔ.
+l
+java:S1128"JRemove this unused import 'org.elasticsearch.action.update.UpdateRequest'.(ÒúŠıÿÿÿÿ8½˜ìõÔ.
+\
+java:S1075#"ARefactor your code to get this URI from a customizable parameter.(åûäışÿÿÿÿ

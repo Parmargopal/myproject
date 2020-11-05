@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8•†ËğÏ.
+P
+java:S1128".Remove this unused import 'java.util.TreeMap'.(¨éˆèıÿÿÿÿ8Ñ ËğÏ.
+o
+java:S1192
+"MDefine a constant instead of duplicating this literal "Second Class" 3 times.(šè£ˆüÿÿÿÿ8•†ËğÏ.
+i
+java:S1192"GDefine a constant instead of duplicating this literal "atmiya" 3 times.(ÕäÊ¦üÿÿÿÿ8•†ËğÏ.
+i
+java:S1192	"LDefine a constant instead of duplicating this literal "First Class" 3 times.(ä›Ùí8•†ËğÏ.

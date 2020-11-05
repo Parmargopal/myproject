@@ -1,0 +1,13 @@
+com/prominentpixel/termquery/RangeQuery.class
+com/prominentpixel/termquery/TermsQuery.class
+com/prominentpixel/App.class
+com/prominentpixel/QuestionIndex.class
+com/prominentpixel/crudindex/DataSearchIndex.class
+com/prominentpixel/termquery/TermQuery.class
+com/prominentpixel/Data.class
+com/prominentpixel/termquery/ExistsQueries.class
+com/prominentpixel/compoundqueries/BoolQuery.class
+com/prominentpixel/crudindex/DataDeleteIndex.class
+com/prominentpixel/crudindex/DataUpdateIndex.class
+com/prominentpixel/crudindex/DataAddIndex.class
+com/prominentpixel/CreateIndex.class

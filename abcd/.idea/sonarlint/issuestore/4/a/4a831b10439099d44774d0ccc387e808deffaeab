@@ -1,0 +1,12 @@
+
+‰
+java:S1130	"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8®ãŠÔÕ.
+h
+java:S1128"KRemove this unused import 'jdk.nashorn.internal.runtime.regexp.joni.Regex'.(é÷üˆ8®ãŠÔÕ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œµùòøÿÿÿÿ8®ãŠÔÕ.
+U
+java:S1854
+"8Remove this useless assignment to local variable "line".(’‚¯8ÅÕ›ÔÕ.
+F
+java:S1481
+")Remove this unused "line" local variable.(’‚¯8ÅÕ›ÔÕ.

@@ -1,0 +1,20 @@
+
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(œ–é8“ÜİÎÖ.
+f
+java:S2095"IUse try-with-resources or close this "IndexWriter" in a "finally" clause.(¼§š¬8³ËÖ.
+E
+java:S1481")Remove this unused "line" local variable.(çäªq8Ç¼ÊÎÖ.
+J
+java:S1481"-Remove this unused "document" local variable.(Œ¾œÉ8Ç¼ÊÎÖ.
+X	java:S125"<This block of commented-out lines of code should be removed.( è¿ö8€©ÉÎÖ.
+_
+java:S1128"=Remove this unused import 'org.apache.lucene.document.Field'.(ğÃãÊÿÿÿÿÿ8ó…‘ÏÖ.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8“ÜİÎÖ.
+f
+java:S2095"IUse try-with-resources or close this "FSDirectory" in a "finally" clause.(æëÏ8Ô¼¯ËÖ.
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(´’­²8…áóÆÖ.
+e
+java:S1128"CRemove this unused import 'org.apache.lucene.document.StringField'.(«¤çŞøÿÿÿÿ8ó…‘ÏÖ.
+Y
+java:S1854"<Remove this useless assignment to local variable "document".(Œ¾œÉ8Ç¼ÊÎÖ.

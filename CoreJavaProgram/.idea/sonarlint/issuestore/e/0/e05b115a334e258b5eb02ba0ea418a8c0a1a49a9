@@ -1,0 +1,43 @@
+
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¦‹å‘üÿÿÿÿ8šµ±ñÏ.
+Q
+java:S3740$"/Provide the parametrized type for this generic.(Õ’úÏúÿÿÿÿ8šµ±ñÏ.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(è†ìùÿÿÿÿ8šµ±ñÏ.
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ïš—åùÿÿÿÿ8‚…§ñÏ.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ8ÂÅùñÏ.
+d
+java:S1192"GDefine a constant instead of duplicating this literal "nilesh" 3 times.(×œÜÿ8šµ±ñÏ.
+L
+java:S3740"/Provide the parametrized type for this generic.(ïâ›8›…ùñÏ.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "jayal" 3 times.(öö‡ùÿÿÿÿ8šµ±ñÏ.
+d
+java:S1192"GDefine a constant instead of duplicating this literal "vishal" 3 times.(ƒ¨×ˆ8šµ±ñÏ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ïš—åùÿÿÿÿ8‚…§ñÏ.
+b
+java:S1192
+"FDefine a constant instead of duplicating this literal "gopal" 3 times.(ÌÇçP8šµ±ñÏ.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ßŸªŠ8§ÚüñÏ.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¦‹å‘üÿÿÿÿ8šµ±ñÏ.
+L
+java:S3740	"/Provide the parametrized type for this generic.(ÒîÛÖ8»ÁñÏ.
+L
+java:S3740	"/Provide the parametrized type for this generic.(ÒîÛÖ8»ÁñÏ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ£¢˜8Ìˆ©ñÏ.
+Q
+java:S3740$"/Provide the parametrized type for this generic.(Õ’úÏúÿÿÿÿ8šµ±ñÏ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ë¹Şúÿÿÿÿ8°—¬ñÏ.
+‚
+java:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÒîÛÖ8»ÁñÏ.
+j
+java:S1192"HDefine a constant instead of duplicating this literal "harshit" 3 times.(„Â“Œùÿÿÿÿ8šµ±ñÏ.
+‡
+java:S1149$"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Õ’úÏúÿÿÿÿ8šµ±ñÏ.
+Q
+java:S3740/"/Provide the parametrized type for this generic.(º¡·ıÿÿÿÿ8§ÚüñÏ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şá¸‰ıÿÿÿÿ8Õé•ñÏ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ïš—åùÿÿÿÿ8‚…§ñÏ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ£¢˜8™­ñÏ.

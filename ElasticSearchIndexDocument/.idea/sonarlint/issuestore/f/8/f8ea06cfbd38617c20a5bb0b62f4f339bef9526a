@@ -1,0 +1,26 @@
+
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(óûñë8£Ï¹ÄÌ.
+T
+java:S1874"7Remove this use of "TransportClient"; it is deprecated.(ÏÏ§Ê8£Ï¹ÄÌ.
+V
+java:S1128"9Remove this unused import 'javax.swing.text.Highlighter'.(ÎŞÌä8³î‰ùÓ.
+w
+java:S2095"UUse try-with-resources or close this "PreBuiltTransportClient" in a "finally" clause.(˜ˆ¼’şÿÿÿÿ8£Ï¹ÄÌ.
+a
+java:S1874"?Remove this use of "PreBuiltTransportClient"; it is deprecated.(˜ˆ¼’şÿÿÿÿ8£Ï¹ÄÌ.
+a
+java:S1128"?Remove this unused import 'org.elasticsearch.search.SearchHit'.(š¶µüÿÿÿÿ8£Ï¹ÄÌ.
+n
+java:S1128"QRemove this unused import 'org.apache.lucene.analysis.standard.StandardAnalyzer'.(­‡ä¨8£Ï¹ÄÌ.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ÿÑÒ–8£Ï¹ÄÌ.
+]
+java:S1128"@Remove this unused import 'org.elasticsearch.search.SearchHits'.(Ğ¹—8£Ï¹ÄÌ.
+i
+java:S1128	"GRemove this unused import 'org.elasticsearch.index.query.QueryBuilder'.(¡±´şûÿÿÿÿ8£Ï¹ÄÌ.
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÇĞŸùÓ.
+L
+java:S1874)"0Remove this use of "setTypes"; it is deprecated.(ùüØ
+8£Ï¹ÄÌ.
+n
+java:S1128"LRemove this unused import 'org.elasticsearch.index.query.TermsQueryBuilder'.(Ğ‹ŠÍøÿÿÿÿ8£Ï¹ÄÌ.

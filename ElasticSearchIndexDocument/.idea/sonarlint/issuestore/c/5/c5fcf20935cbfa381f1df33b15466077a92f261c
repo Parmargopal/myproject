@@ -1,0 +1,11 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ÿÑÒ–8§ñÚÆÌ.
+a
+java:S1874"?Remove this use of "PreBuiltTransportClient"; it is deprecated.(˜ˆ¼’þÿÿÿÿ8¾ù¸ÆÌ.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(óûñë8¦ÁÜÆÌ.
+R
+java:S1874 "0Remove this use of "setTypes"; it is deprecated.(™»žôþÿÿÿÿ8õžÌÆÌ.
+w
+java:S2095"UUse try-with-resources or close this "PreBuiltTransportClient" in a "finally" clause.(˜ˆ¼’þÿÿÿÿ8¾ù¸ÆÌ.
+T
+java:S1874"7Remove this use of "TransportClient"; it is deprecated.(ÏÏ§Ê8¾Ÿ³ÆÌ.

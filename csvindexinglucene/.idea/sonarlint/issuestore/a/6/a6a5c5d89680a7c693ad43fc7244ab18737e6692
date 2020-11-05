@@ -1,0 +1,23 @@
+
+k
+java:S2095""IUse try-with-resources or close this "IndexWriter" in a "finally" clause.(‹Ù¯Ëøÿÿÿÿ8¬±¬ÏÖ.
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ƒ–®ÄÖ.
+]
+java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8Ù´îÃÖ.
+d
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Îü™~8êõÖÃÖ.
+]	java:S125&"<This block of commented-out lines of code should be removed.(½ ÆËÿÿÿÿÿ8—¡ŞÏÖ.
+L
+java:S1481)"/Remove this unused "dateFormat" local variable.(¼áÜ•8ıÌŞÏÖ.
+N
+java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8Ù´îÃÖ.
+“
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.( äöÛùÿÿÿÿ8ƒ–®ÄÖ.
+k
+java:S2095"IUse try-with-resources or close this "FSDirectory" in a "finally" clause.(¦Â¦œúÿÿÿÿ8Í³…ÄÖ.
+[
+java:S1854)">Remove this useless assignment to local variable "dateFormat".(¼áÜ•8ıÌŞÏÖ.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ßÏİşÿÿÿÿ8Š›ÓĞÖ.
+]	java:S1252"<This block of commented-out lines of code should be removed.(‹µş¶ûÿÿÿÿ8©òÒĞÖ.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8–èÛĞÖ.

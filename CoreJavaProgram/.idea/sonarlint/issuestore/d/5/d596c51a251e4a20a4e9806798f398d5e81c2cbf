@@ -1,0 +1,24 @@
+
+Q
+java:S3740-"/Provide the parametrized type for this generic.(é«“›ûÿÿÿÿ8ÕæîÏ.
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¡åğ8ŒøïÏ.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(İ¦ÎÀ8ş•ÄïÏ.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(Õ§ÛŸûÿÿÿÿ8Â©©ïÏ.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(Áœßöùÿÿÿÿ8ÑÅ«ïÏ.
+{
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(©¤Ú¿ùÿÿÿÿ8ùîùïÏ.
+Q
+java:S3740-"/Provide the parametrized type for this generic.(é«“›ûÿÿÿÿ8öÀçîÏ.
+L
+java:S3740"/Provide the parametrized type for this generic.(ÖÆ•½8Ø©«îÏ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ûë­8±±ÎïÏ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Ç±8õÛÏïÏ.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(âè†Š8ÿÁÄïÏ.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ8¨„ÙîÏ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë…§ã8§¦ıïÏ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÑĞÎùÿÿÿÿ8ş•ÄïÏ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ8Ø©«îÏ.

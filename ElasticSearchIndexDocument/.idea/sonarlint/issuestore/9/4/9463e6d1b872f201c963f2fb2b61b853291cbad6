@@ -1,0 +1,14 @@
+
+M
+java:S1874"7Remove this use of "TransportClient"; it is deprecated.(ÏÏ§Ê
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(®ûë½ùÿÿÿÿ
+Z
+java:S1874"?Remove this use of "PreBuiltTransportClient"; it is deprecated.(˜ˆ¼’þÿÿÿÿ
+W
+java:S1854$"<Remove this useless assignment to local variable "response".(¨Ìí“üÿÿÿÿ
+p
+java:S2095"UUse try-with-resources or close this "PreBuiltTransportClient" in a "finally" clause.(˜ˆ¼’þÿÿÿÿ
+7
+java:S1116&"Remove this empty statement.(Åñ­õþÿÿÿÿ
+H
+java:S1481$"-Remove this unused "response" local variable.(¨Ìí“üÿÿÿÿ

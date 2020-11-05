@@ -1,0 +1,25 @@
+
+_
+java:S1128"DRemove this unused import 'org.elasticsearch.action.IndicesRequest'.(øÚ¹ñþÿÿÿÿ
+P
+java:S1128":Remove this unused import 'java.util.stream.DoubleStream'.(óÖÐ©
+S
+java:S1128
+"8Remove this unused import 'org.elasticsearch.node.Node'.(Ûã®Ùùÿÿÿÿ
+R
+java:S1874"7Remove this use of "TransportClient"; it is deprecated.(õŽ«¬þÿÿÿÿ
+b
+java:S1854"GRemove this useless assignment to local variable "createIndexResponse".(áÙß™ûÿÿÿÿ
+O
+java:S18547"9Remove this useless assignment to local variable "index".(†õš×
+‡
+java:S11306"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+S
+java:S1481"8Remove this unused "createIndexResponse" local variable.(áÙß™ûÿÿÿÿ
+@
+java:S14817"*Remove this unused "index" local variable.(†õš×
+V	java:S125""<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(ÔïÞ±
+V	java:S1258"<This block of commented-out lines of code should be removed.(±ŒªÙùÿÿÿÿ
+K
+java:S1144"0Remove this unused private "nodeBuilder" method.(É¨¯Šûÿÿÿÿ

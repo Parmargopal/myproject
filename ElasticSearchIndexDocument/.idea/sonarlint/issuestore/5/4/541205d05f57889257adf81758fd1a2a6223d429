@@ -1,0 +1,19 @@
+
+N
+java:S1481$"3Remove this unused "updateResponse" local variable.(Ã¶‰ëûÿÿÿÿ
+=	java:S108")Either remove or fill this block of code.(˜£­
+p
+java:S2095"UUse try-with-resources or close this "PreBuiltTransportClient" in a "finally" clause.(Þ§Ý¡üÿÿÿÿ
+]
+java:S1854$"BRemove this useless assignment to local variable "updateResponse".(Ã¶‰ëûÿÿÿÿ
+Z
+java:S1874"?Remove this use of "PreBuiltTransportClient"; it is deprecated.(Þ§Ý¡üÿÿÿÿ
+R
+java:S1874"7Remove this use of "TransportClient"; it is deprecated.(õŽ«¬þÿÿÿÿ
+o
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¥ç¡
+U
+java:S1128
+":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
